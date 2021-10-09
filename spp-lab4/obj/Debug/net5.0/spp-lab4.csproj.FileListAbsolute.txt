@@ -1,0 +1,16 @@
+C:\developing\projects\С#\spp-lab4\spp-lab4\bin\Debug\net5.0\spp-lab4.exe
+C:\developing\projects\С#\spp-lab4\spp-lab4\bin\Debug\net5.0\spp-lab4.deps.json
+C:\developing\projects\С#\spp-lab4\spp-lab4\bin\Debug\net5.0\spp-lab4.runtimeconfig.json
+C:\developing\projects\С#\spp-lab4\spp-lab4\bin\Debug\net5.0\spp-lab4.runtimeconfig.dev.json
+C:\developing\projects\С#\spp-lab4\spp-lab4\bin\Debug\net5.0\spp-lab4.dll
+C:\developing\projects\С#\spp-lab4\spp-lab4\bin\Debug\net5.0\ref\spp-lab4.dll
+C:\developing\projects\С#\spp-lab4\spp-lab4\bin\Debug\net5.0\spp-lab4.pdb
+C:\developing\projects\С#\spp-lab4\spp-lab4\obj\Debug\net5.0\spp-lab4.csproj.AssemblyReference.cache
+C:\developing\projects\С#\spp-lab4\spp-lab4\obj\Debug\net5.0\spp-lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\developing\projects\С#\spp-lab4\spp-lab4\obj\Debug\net5.0\spp-lab4.AssemblyInfoInputs.cache
+C:\developing\projects\С#\spp-lab4\spp-lab4\obj\Debug\net5.0\spp-lab4.AssemblyInfo.cs
+C:\developing\projects\С#\spp-lab4\spp-lab4\obj\Debug\net5.0\spp-lab4.csproj.CoreCompileInputs.cache
+C:\developing\projects\С#\spp-lab4\spp-lab4\obj\Debug\net5.0\spp-lab4.dll
+C:\developing\projects\С#\spp-lab4\spp-lab4\obj\Debug\net5.0\ref\spp-lab4.dll
+C:\developing\projects\С#\spp-lab4\spp-lab4\obj\Debug\net5.0\spp-lab4.pdb
+C:\developing\projects\С#\spp-lab4\spp-lab4\obj\Debug\net5.0\spp-lab4.genruntimeconfig.cache
