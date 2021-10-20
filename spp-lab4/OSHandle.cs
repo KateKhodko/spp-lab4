@@ -7,22 +7,16 @@ namespace spp_lab4
     {
         [DllImport("Kernel32.dll")]
         private static extern bool CloseHandle(IntPtr handle);
-        public IntPtr Handle { get; set; }
+        private IntPtr Handle { get; set; }
         
         private bool _disposed;
-        
-        public OSHandle()
+
+        public OSHandle(IntPtr handle)
         {
-            Handle = IntPtr.Zero;
+            Handle = handle;
         }
-        
+
         public void Dispose()
-        {
-            Dispose(true);
-            GC.SuppressFinalize(this);
-        }
-        
-        protected virtual void Dispose(bool disposing)
         {
             if (!_disposed)
             {
@@ -30,11 +24,12 @@ namespace spp_lab4
                 Handle = IntPtr.Zero;
                 _disposed = true;
             }
+            GC.SuppressFinalize(this);
         }
-        
+
         ~OSHandle()
         {
-            Dispose (false);
+            Dispose ();
         }
     }
 }
